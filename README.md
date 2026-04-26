@@ -138,8 +138,8 @@ You are free to use, modify, and distribute this code with attribution.
 
 ## 🙋 Author
 
-**[Your Name]** — MQL5 Developer
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Supachok Jul** — MQL5 Developer
+GitHub: [https://github.com/bblank09](https://github.com/bblank09)
 
 *Contributions, issues, and feature requests are welcome.*
 *If this project helped you, consider leaving a ⭐ on the repository.*
