@@ -77,7 +77,7 @@ distance — locking in gains while allowing the trade room to run.
 3. Navigate to `MQL5 / Experts` and paste the file there
 4. Return to MT5, open the **Navigator** panel, right-click **Expert Advisors**,
    and select **Refresh**
-5. Double-click `BUYGRID` to open the input dialog
+5. Double-click `Bounce_Grid_EA_MT5` to open the input dialog
 6. Configure your parameters (start with defaults on a demo account)
 7. Ensure **AutoTrading** is enabled in the MT5 toolbar, then click **OK**
 
