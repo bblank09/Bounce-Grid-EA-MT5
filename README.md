@@ -1,4 +1,4 @@
-# trail-grid-ea
+# Bounce Grid EA MT5
 
 ![Language](https://img.shields.io/badge/Language-MQL5-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-MetaTrader%205-lightgrey?style=flat-square)
