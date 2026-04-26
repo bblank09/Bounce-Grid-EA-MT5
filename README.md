@@ -72,7 +72,7 @@ distance — locking in gains while allowing the trade room to run.
 
 ### Installation
 
-1. Download `BUYGRID.mq5` from this repository
+1. Download `Bounce_Grid_EA_MT5.mq5` from this repository
 2. Open MetaTrader 5 and press **Ctrl+Shift+D** to open the Data Folder
 3. Navigate to `MQL5 / Experts` and paste the file there
 4. Return to MT5, open the **Navigator** panel, right-click **Expert Advisors**,
